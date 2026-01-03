@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Bold';
+  src: url('./font/Font1-Bold.woff2');
+}
+
+@font-face {
+  font-family: 'Medium';
+  src: url('./font/Font1-Medium.woff2');
+}
+
+@font-face {
+  font-family: 'Regular';
+  src: url('./font/Font1-Regular.woff2');
+}
+
+@font-face {
+  font-family: 'Regular2';
+  src: url('./font/Font2-Regular.woff2');
+}
+
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  overflow-X: hidden;
+}
+
+::selection {
+  background-color: #FF7782;
+}
