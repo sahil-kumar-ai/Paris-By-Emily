@@ -33,7 +33,7 @@ const Home = () => {
           <DragMe />
           <Bottomtext />
         </div>
-        <div className="relative mt-[-147.5vh] -z-1">
+        <div className="relative">
           <Footer />
         </div>
     </div>
