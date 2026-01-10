@@ -13,14 +13,15 @@ import SideSlice from "../home/sideSlide/SideSlice";
 import DragMe from "../home/dragMe/DragMe";
 import Bottomtext from "../home/bottomText/Bottomtext";
 import Footer from "../home/footer/footer";
+import { useGSAP } from "@gsap/react";
 
 gsap.registerPlugin(ScrollTrigger);
 
 const Home = () => {
 
   return (
-    <div className="bg-[#F5F1EB] relative w-screen">
-        <div className="bg-[#F1E1CF] z-2 h-[1450vh] w-screen overflow-x-hidden">
+    <div className="bg-[#F5F1EB] w-screen relative">
+        <div className="bg-[#F1E1CF] relative z-2 h-[1450vh] w-screen overflow-x-hidden">
           <FirstPage />
           <Navbar />
           <SecondPage />
@@ -33,7 +34,7 @@ const Home = () => {
           <DragMe />
           <Bottomtext />
         </div>
-        <div className="relative">
+        <div className="">
           <Footer />
         </div>
     </div>
