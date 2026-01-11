@@ -115,5 +115,4 @@ For questions or collaborations, please reach out through the repository issues.
 
 ---
 
-<img width="1900" height="894" alt="Paris By Emily" src="https://github.com/user-attachments/assets/46e18fc3-804c-4caa-820e-83c202bf227c" />
-
+<img width="1920" height="1080" alt="ParisByEmily" src="https://github.com/user-attachments/assets/6883a9cf-ecf4-48c0-af4a-8ff33f4854fa" />
