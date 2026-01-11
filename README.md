@@ -6,7 +6,6 @@ A modern, interactive web experience showcasing artisanal bakery products from P
 
 - **Smooth Scrolling**: Implemented with Lenis for buttery-smooth scroll experiences
 - **Interactive Animations**: Powered by GSAP for professional-grade animations
-- **Parallax Effects**: Multiple parallax layers creating depth and immersion
 - **Drag Interactions**: Custom drag components for engaging user interactions
 - **Video Presentations**: Pinned video sections with seamless transitions
 - **Responsive Design**: Built with Tailwind CSS for mobile-first responsive layouts
@@ -112,4 +111,9 @@ For questions or collaborations, please reach out through the repository issues.
 
 ---
 
-*Experience the art of modern web development with Paris By Emily*
+*Experience the art of modern web development inspired by Paris By Emily*
+
+---
+
+<img width="1900" height="894" alt="Paris By Emily" src="https://github.com/user-attachments/assets/46e18fc3-804c-4caa-820e-83c202bf227c" />
+
